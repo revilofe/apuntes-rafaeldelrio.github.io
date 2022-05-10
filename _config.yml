@@ -14,8 +14,7 @@ github_username: RafaeldelRio
 
 # Configuración del tema
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: "dark" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise", "default"
 
 # No nos hace falta, pero con otra configuración de despliegue sí sería necesario.
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -26,6 +25,9 @@ permalink: /:categories/:title/ # Cómo queremos las URL
 paginate: 5 # Cantidad de posts por página
 paginate_path: /page:num/ # Ruta de paginación
 timezone: ES # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+search: true
+# Se puede cambiar el proveedor de búsqueda a uno de pago, pero el actual funciona bien
+# search_provider: algolia
 
 # Las carpetas que queremos incluir en el procesado (a parte de _posts)
 include:
@@ -121,3 +123,9 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Esto nos permite comprimir y optimizar los html
+compress_html:
+  clippings: all
+  ignore:
+    envs: development # Deshabilitado en entorno de desarollo
