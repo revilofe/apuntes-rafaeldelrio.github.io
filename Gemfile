@@ -1,13 +1,9 @@
 source "https://rubygems.org"
-#     bundle exec jekyll serve
-gem "jekyll", "~> 4.2.2"
-# This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "minima", "~> 2.5"
 
-# If you want to use GitHub Pages, remove the "gem "jekyll"" above and
-# uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
-# If you have any plugins, put them here!
+# Dependencia principal, tanto para local como para github pages.
+gem "jekyll", "~> 4.2.2"
+
+# Plugins que estamos usando. Aún se podría limpiar más
 group :jekyll_plugins do
   gem "jekyll-paginate"
   gem "jekyll-sitemap"
@@ -16,6 +12,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
 end
 
+# Estas siguientes gemas no sé para qué sirven aún
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.
 platforms :mingw, :x64_mingw, :mswin, :jruby do
@@ -23,14 +20,14 @@ platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo-data"
 end
 
-# Performance-booster for watching directories on Windows
-gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
-
+# Estas siguientes gemas no sé para qué sirven aún
 # Lock `http_parser.rb` gem to `v0.6.x` on JRuby builds since newer versions of the gem
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
+# Esta dependencia es para que funcione con ruby versión > 3
 gem "webrick", "~> 1.7"
 
+# Las dos siguientes dependencias son debido al tema que usamos.
 gem "minimal-mistakes-jekyll"
 gem "jekyll-remote-theme"

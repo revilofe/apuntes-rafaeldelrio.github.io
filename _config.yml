@@ -1,48 +1,36 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-#
-# If you need help with YAML syntax, here are some quick references for you:
-# https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
-# https://learnxinyminutes.com/docs/yaml/
-#
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# En este archivo es donde se configura toda la web.
+# Por aspectos de seguridad, este archivo no se auto recarga con
+# "build exec jekyll serve --autoreload"
 
-title: Your awesome title
-email: your-email@example.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: jekyllrb
-github_username: jekyll
+# Configuración de la web. Se accede mediante {{ site.title }}, {{ site.email }}...
+# Se pueden crear las variables personalizadas que queramos y usarlas en los HTML.
+title: Apuntes informática
+email: sin-definir-aun@email.com
+description: >- # con esto ignoramos nuevas líneas hasta la siguiente variable.
+  En este repositorio se almacenarán apuntes para grado medio, superior
+  y cursos de especialización de informática (FP informática).
+twitter_username: sindefinir
+github_username: RafaeldelRio
+
+# Configuración del tema
+remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: default
 search: true
 
+# No nos hace falta, pero con otra configuración de despliegue sí sería necesario.
 #baseurl: "" # the subpath of your site, e.g. /blog
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
-# Build settings
-remote_theme: mmistakes/minimal-mistakes
+# Configuración del sitio web
+permalink: /:categories/:title/ # Cómo queremos las URL
+paginate: 5 # Cantidad de posts por página
+paginate_path: /page:num/ # Ruta de paginación
+timezone: ES # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
-# Outputting
-permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
+# Las carpetas que queremos incluir en el procesado (a parte de _posts)
 include:
   - _pages
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
@@ -63,6 +51,8 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+# El listado de plugins que usamos.
+# Si los usamos, debemos añadirlos como gemas en las dependencias
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -71,10 +61,11 @@ plugins:
   - jekyll-include-cache
   - jekyll-remote-theme
 
+# Estas variables aparecen en la parte de la izquierda en la web.
 author:
-  name: "First Lastname"
+  name: "Rafael del Río"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  bio: "Profesor de ciberseguridad."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -89,6 +80,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# La configuración del footer de la web
 footer:
   links:
     - label: "Twitter"
@@ -101,6 +93,7 @@ footer:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
+# Configuraciones por defecto
 defaults:
   # _posts
   - scope:
@@ -124,6 +117,7 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+
 tag_archive:
   type: liquid
   path: /tags/

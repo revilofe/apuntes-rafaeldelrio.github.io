@@ -1,3 +1,4 @@
+# Aquí se configuran las opciones del menú superior.
 main:
   - title: "Posts"
     url: /posts/
