@@ -108,6 +108,9 @@ defaults:
       comments: true
       share: true
       related: true
+      sidebar:
+        nav: "docs"
+
   # _pages
   - scope:
       path: "_pages"
@@ -129,3 +132,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development # Deshabilitado en entorno de desarollo
+
+# Enlaces del camino seguido para llegar al artículo.
+breadcrumbs: true
