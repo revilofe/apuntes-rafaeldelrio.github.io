@@ -33,7 +33,6 @@ search: true
 #url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
-theme: minimal-mistakes-jekyll
 remote_theme: mmistakes/minimal-mistakes
 
 # Outputting
@@ -70,6 +69,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-remote-theme
 
 author:
   name: "First Lastname"
