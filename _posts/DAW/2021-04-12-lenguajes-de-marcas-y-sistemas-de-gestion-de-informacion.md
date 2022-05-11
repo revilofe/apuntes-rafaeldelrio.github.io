@@ -8,7 +8,7 @@ tags:
   - ASIR
 ---
 
-{% license http://creativecommons.org/licenses/by/4.0/ %}
+{{ site.licencia }}
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 

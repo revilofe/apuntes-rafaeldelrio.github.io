@@ -11,6 +11,7 @@ description: >- # con esto ignoramos nuevas líneas hasta la siguiente variable.
   y cursos de especialización de informática (FP informática).
 twitter_username: sindefinir
 github_username: RafaeldelRio
+licencia: Todos los apuntes se encuentran bajo la licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 # Configuración del tema
 remote_theme: mmistakes/minimal-mistakes
@@ -62,8 +63,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-remote-theme
-  # Para la licencia
-  - jekyll-creativecommons
 
 # Estas variables aparecen en la parte de la izquierda en la web.
 author:

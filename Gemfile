@@ -32,6 +32,3 @@ gem "webrick", "~> 1.7"
 # Las dos siguientes dependencias son debido al tema que usamos.
 gem "minimal-mistakes-jekyll"
 gem "jekyll-remote-theme"
-
-# Para la licencia
-gem 'jekyll-creativecommons', :github => 'pathawks/jekyll-creativecommons'
