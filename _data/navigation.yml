@@ -1,16 +1,16 @@
 # Aquí se configuran las opciones del menú superior.
 main:
   - title: "SMR"
-    url: /ciclos-formativos/sistemas-microinformaticos-y-redes/
+    url: /smr/
     description: "Apuntes de SMR"
   - title: "DAW"
-    url: /ciclos-formativos/desarrollo-aplicaciones-web/
+    url: /daw/
     description: "Apuntes de DAW"
   - title: "ASIR"
-    url: /ciclos-formativos/administracion-sistemas-informaticos-red/
+    url: /asir/
     description: "Apuntes de ASIR"
   - title: "CETI"
-    url: /cursos-especializacion/ciberseguridad-entornos-tecnologias-informacion/
+    url: /ceti/
     description: "Apuntes de CETI"
   - title: "Categorías"
     url: /categories/
