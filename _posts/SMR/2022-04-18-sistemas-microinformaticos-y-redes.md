@@ -4,6 +4,7 @@ categories:
   - Ciclos formativos
 tags:
   - SMR
+permalink: /smr/
 ---
 
 Aquí vas a encontrar los apuntes de los distintos módulos profesionales del Ciclo Formativo de Grado Medio Sistemas Microinformáticos y Redes (SMR):

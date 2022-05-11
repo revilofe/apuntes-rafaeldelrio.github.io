@@ -1,9 +1,10 @@
 ---
 title: "Ciberseguridad en Entornos de las Tecnologías de la Información"
 categories:
-  - Cursos especilialización
+  - Cursos especialización
 tags:
   - CETI
+permalink: /ceti/
 ---
 
 Aquí vas a encontrar los apuntes de los distintos módulos profesionales del Curse de Especialización en Ciberseguridad en Entornos de las Tecnologías de la Información (CETI):

@@ -4,6 +4,7 @@ categories:
   - Ciclos formativos
 tags:
   - DAW
+permalink: /daw/
 ---
 
 Aquí vas a encontrar los apuntes de los distintos módulos profesionales del Ciclo Formativo de Grado Superior Desarrollo de Aplicaciones Web (DAW):

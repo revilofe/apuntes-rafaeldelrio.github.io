@@ -4,6 +4,7 @@ categories:
   - Ciclos formativos
 tags:
   - ASIR
+permalink: /asir/
 ---
 
 Aquí vas a encontrar los apuntes de los distintos módulos profesionales del Ciclo Formativo de Grado Superior Administración de Sistemas Informáticos en Red (ASIR):

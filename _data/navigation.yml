@@ -1,14 +1,27 @@
 # Aquí se configuran las opciones del menú superior.
 main:
-  - title: "Posts"
-    url: /posts/
-    description: "Descripcion de ejemplo"
-  - title: "Categories"
+  - title: "SMR"
+    url: /ciclos-formativos/sistemas-microinformaticos-y-redes/
+    description: "Apuntes de SMR"
+  - title: "DAW"
+    url: /ciclos-formativos/desarrollo-aplicaciones-web/
+    description: "Apuntes de DAW"
+  - title: "ASIR"
+    url: /ciclos-formativos/administracion-sistemas-informaticos-red/
+    description: "Apuntes de ASIR"
+  - title: "CETI"
+    url: /cursos-especializacion/ciberseguridad-entornos-tecnologias-informacion/
+    description: "Apuntes de CETI"
+  - title: "Categorías"
     url: /categories/
-  - title: "Tags"
+    description: "Ver las categorías de apuntes"
+  - title: "Etiquetas"
     url: /tags/
-  - title: "About"
-    url: /about/
+    description: "Ver las etiquetas de los apuntes"
+#  - title: "Posts"
+#    url: /posts/
+#  - title: "About"
+#    url: /about/
 
 menu:
   - title: Sistemas Microinformáticos y Redes
