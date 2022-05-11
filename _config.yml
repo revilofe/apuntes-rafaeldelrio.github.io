@@ -14,7 +14,7 @@ github_username: RafaeldelRio
 
 # Configuración del tema
 remote_theme: mmistakes/minimal-mistakes
-minimal_mistakes_skin: "dark" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise", "default"
+minimal_mistakes_skin: "air" # "aqua", "contrast", "dark", "dirt", "neon", "mint", "sunrise", "default"
 
 # No nos hace falta, pero con otra configuración de despliegue sí sería necesario.
 #baseurl: "" # the subpath of your site, e.g. /blog
@@ -103,13 +103,15 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: true
       read_time: true
       comments: true
       share: true
       related: true
+      # No queremos ver los datos míos en todos los posts
+      author_profile: false
+      # En su lugar, metemos una sidebar
       sidebar:
-        nav: "docs"
+        nav: "menu"
 
   # _pages
   - scope:
@@ -117,7 +119,11 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      # No queremos ver los datos míos en todos los posts
+      author_profile: false
+      # En su lugar, metemos una sidebar
+      sidebar:
+        nav: "menu"
 
 category_archive:
   type: liquid

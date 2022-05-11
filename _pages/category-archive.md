@@ -2,5 +2,6 @@
 title: "Posts by Category"
 layout: categories
 permalink: /categories/
-author_profile: true
+# No queremos que salga la información del autor
+author_profile: false
 ---

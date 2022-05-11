@@ -10,47 +10,81 @@ main:
   - title: "About"
     url: /about/
 
-docs:
-  - title: Getting Started
+menu:
+  - title: Sistemas Microinformáticos y Redes
     children:
-      - title: "Quick-Start Guide"
-        url: /docs/quick-start-guide/
-      - title: "Structure"
-        url: /docs/structure/
-      - title: "Installation"
-        url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
+      - title: "Redes locales"
+        url: /smr/redes-locales/
+      - title: "Aplicaciones ofimáticas"
+        url: /smr/aplicaciones-ofimaticas/
+      - title: "Montaje y mantenimiento de equipos"
+        url: /smr/montaje-y-mantenimiento-de-equipos/
+      - title: "Sistemas operativos monopuesto"
+        url: /smr/sistemas-operativos-monopuesto/
+      - title: "Servicios en red"
+        url: /smr/servicios-en-red/
+      - title: "Sistemas operativos en red"
+        url: /smr/sistemas-operativos-en-red/
+      - title: "Seguridad informática"
+        url: /smr/seguridad-informatica/
+      - title: "Aplicaciones web"
+        url: /smr/aplicaciones-web/
 
-  - title: Customization
+  - title: Desarrollo de Aplicaciones Web
     children:
-      - title: "Configuration"
-        url: /docs/configuration/
-      - title: "Navigation"
-        url: /docs/navigation/
-      - title: "UI Text"
-        url: /docs/ui-text/
-      - title: "Authors"
-        url: /docs/authors/
-      - title: "Layouts"
-        url: /docs/layouts/
+      - title: "Sistemas informáticos"
+        url: /daw/sistemas-informaticos/
+      - title: "Bases de datos"
+        url: /daw/bases-de-datos/
+      - title: "Programación"
+        url: /daw/programacion/
+      - title: "Lenguajes de marcas y sistemas de gestión de información"
+        url: /daw/asir/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/
+      - title: "Entornos de desarrollo"
+        url: /daw/entornos-de-desarrollo/
+      - title: "Desarrollo web en entorno cliente"
+        url: /daw/desarrollo-web-entorno-cliente/
+      - title: "Desarrollo web en entorno servidor"
+        url: /daw/desarrollo-web-entorno-servidor/
+      - title: "Despliegue de aplicaciones web"
+        url: /daw/despliegue-aplicaciones-web/
+      - title: "Diseño de interfaces web"
+        url: /daw/diseno-interfaces-web/
 
-  - title: Content
+  - title: Administración de Sistemas Informáticos en Red
     children:
-      - title: "Working with Posts"
-        url: /docs/posts/
-      - title: "Working with Pages"
-        url: /docs/pages/
-      - title: "Working with Collections"
-        url: /docs/collections/
-      - title: "Helpers"
-        url: /docs/helpers/
-      - title: "Utility Classes"
-        url: /docs/utility-classes/
+      - title: "Implantación de sistemas operativos"
+        url: /asir/implantacion-de-sistemas-operativos/
+      - title: "Planificación y administración de redes"
+        url: /asir/planificacion-y-administracion-de-redes/
+      - title: "Fundamentos de hardware"
+        url: /asir/fundamentos-de-hardware/
+      - title: "Gestión de bases de datos"
+        url: /asir/gestion-de-bases-de-datos/
+      - title: "Lenguajes de marcas y sistemas de gestión de información"
+        url: /daw/asir/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/
+      - title: "Administración de sistemas operativos"
+        url: /asir/administracion-de-sistemas-operativos/
+      - title: "Servicios de red e internet"
+        url: /asir/servicios-de-red-e-internet/
+      - title: "Implantación de aplicaciones web"
+        url: /asir/implantacion-de-aplicaciones-web/
+      - title: "Administración de sistemas gestores de bases de datos"
+        url: /asir/administracion-de-sistemas-gestores-de-bases-de-datos/
+      - title: "Seguridad y alta disponibilidad"
+        url: /asir/seguridad-y-alta-disponibilidad/
 
-  - title: Extras
+  - title: Ciberseguridad en Entornos de las Tecnologías de la Información
     children:
-      - title: "Stylesheets"
-        url: /docs/stylesheets/
-      - title: "JavaScript"
-        url: /docs/javascript/
+      - title: "Incidentes de ciberseguridad"
+        url: /ceti/incidentes-de-ciberseguridad/
+      - title: "Normativa de ciberseguridad"
+        url: /ceti/normativa-de-ciberseguridad/
+      - title: "Hacking ético"
+        url: /ceti/hacking-etico/
+      - title: "Análisis forense informático"
+        url: /ceti/analisis-forense-informatico/
+      - title: "Puesta en producción segura"
+        url: /ceti/puesta-en-produccion-segura/
+      - title: "Bastionado de redes y sistemas"
+        url: /ceti/bastionado-de-redes-y-sistemas/

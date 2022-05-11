@@ -2,5 +2,6 @@
 title: "Posts by Year"
 permalink: /posts/
 layout: posts
-author_profile: true
+# No queremos que salga la información del autor
+author_profile: false
 ---
