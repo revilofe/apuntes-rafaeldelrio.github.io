@@ -7,8 +7,6 @@ tags:
   - General
 ---
 
-{{ site.licencia }}
-
 Libros:
 
 - [El libro de Ra-Ma de normativa de ciberseguridad](https://www.ra-ma.es/libro/normativa-de-ciberseguridad_132894/) puede ser un buen punto de partida para organizar la estructura del temario.

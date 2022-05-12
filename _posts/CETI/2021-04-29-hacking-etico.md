@@ -7,8 +7,6 @@ tags:
   - General
 ---
 
-{{ site.licencia }}
-
 Libros:
 
 - [El libro de Ra-Ma de hacking ético](https://www.ra-ma.es/libro/hacking-etico_139070/) puede ser un buen punto de partida para organizar la estructura del temario.

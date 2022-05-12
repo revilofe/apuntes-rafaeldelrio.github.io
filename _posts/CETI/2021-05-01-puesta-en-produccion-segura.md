@@ -7,8 +7,6 @@ tags:
   - General
 ---
 
-{{ site.licencia }}
-
 Libros:
 
 - [El libro de Ra-Ma de puesta en producción segura](https://www.ra-ma.es/libro/puesta-en-produccion-segura_140116/) puede ser un buen punto de partida para organizar la estructura del temario.

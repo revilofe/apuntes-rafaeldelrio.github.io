@@ -7,8 +7,6 @@ tags:
   - General
 ---
 
-{{ site.licencia }}
-
 Libros:
 
 - [El libro de Ra-Ma de análisis forense informático](https://www.ra-ma.es/libro/analisis-forense-informatico_132720/) puede ser un buen punto de partida para organizar la estructura del temario.

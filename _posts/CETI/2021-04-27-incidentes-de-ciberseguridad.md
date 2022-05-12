@@ -7,8 +7,6 @@ tags:
   - General
 ---
 
-{{ site.licencia }}
-
 Libros:
 
 - [El libro de Ra-Ma de gestión de incidentes](https://www.ra-ma.es/libro/gestion-de-incidentes-de-ciberseguridad_139033/) puede ser un buen punto de partida para organizar la estructura del temario.

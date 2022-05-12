@@ -7,8 +7,6 @@ tags:
   - General
 ---
 
-{{ site.licencia }}
-
 Libros:
 
 - [JoyOfCryptography](https://joyofcryptography.com/)
