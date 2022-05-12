@@ -16,14 +16,14 @@ menu:
   - title: Ciberseguridad en Entornos de las Tecnologías de la Información
     children:
       - title: "Incidentes de ciberseguridad"
-        url: /ceti/incidentes-de-ciberseguridad/
+        url: /ceti/incidentes-de-ciberseguridad
       - title: "Normativa de ciberseguridad"
-        url: /ceti/normativa-de-ciberseguridad/
+        url: /ceti/normativa-de-ciberseguridad
       - title: "Hacking ético"
-        url: /ceti/hacking-etico/
+        url: /ceti/hacking-etico
       - title: "Análisis forense informático"
-        url: /ceti/analisis-forense-informatico/
+        url: /ceti/analisis-forense-informatico
       - title: "Puesta en producción segura"
-        url: /ceti/puesta-en-produccion-segura/
+        url: /ceti/puesta-en-produccion-segura
       - title: "Bastionado de redes y sistemas"
-        url: /ceti/bastionado-de-redes-y-sistemas/
+        url: /ceti/bastionado-de-redes-y-sistemas
