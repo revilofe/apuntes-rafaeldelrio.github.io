@@ -12,4 +12,5 @@ Para descargar localmente la página web, simplemente descarga el código del pr
 - `bundle exec jekyll serve --livereload`
   Con esto se estará ejecutando el servidor de manera local, que estará desplegado en localhost:4000
 
+Te harán falta los [requisitos de tener instalado ruby y ciertas librerías de jekyll](https://jekyllrb.com/docs/)
 Si existe algún problema con ciertas librerías, realice lo siguiente: `sudo apt-get install ruby-full build-essential`
