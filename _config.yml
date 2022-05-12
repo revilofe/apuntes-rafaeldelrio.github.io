@@ -4,7 +4,7 @@
 
 # Configuración de la web. Se accede mediante {{ site.title }}, {{ site.email }}...
 # Se pueden crear las variables personalizadas que queramos y usarlas en los HTML.
-title: Apuntes informática
+title: Apuntes CETI
 email: sin-definir-aun@email.com
 description: >- # con esto ignoramos nuevas líneas hasta la siguiente variable.
   En este repositorio se almacenarán apuntes y recursos para el Curso de Especialización en
