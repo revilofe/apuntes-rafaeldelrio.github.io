@@ -19,6 +19,16 @@ Herramientas:
 
 - [GPG](https://www.gnupg.org/documentation/): para el envío cifrado de información a través de las redes. Hay muchos tutoriales por internet, [como este](https://www.privex.io/articles/what-is-gpg).
 
+Propuesta de temario:
+
+1. Diseño de planes de securización
+2. Sistemas de control de acceso
+3. Administración de credenciales de sistemas
+4. Securización de redes
+5. Sistemas permitetrales de defensa en redes
+6. Securización de sistemas informáticos
+7. IDS/IPS
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF

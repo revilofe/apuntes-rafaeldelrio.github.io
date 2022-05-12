@@ -20,6 +20,7 @@ Herramientas:
 - [Git](https://git-scm.com/): nos permite controlar las versiones del código. Es una herramienta imprescindible en cualquier desarrollo.
 - [Github actions](https://github.com/features/actions): nos permite realizar la integración continua y el despliegue continuo. Podemos generar `jobs`para la ejecución de los tests tras un commit, así como el despliegue automático de la nueva versión si cumple con los requisitos de calidad.
 - [Docker](https://www.docker.com/): ideal como sistema de contenedores para aplicaciones. Tiene diversos usos. En este módulo se puede aplicar para despllegar aplicaciones dentro de contenedores para evitar que las vulnerabilidades web puedan afectar a los sistemas operativos o servicios subyacentes.
+- [Kubernetes](https://kubernetes.io/es/): es un orquestador de contenedores. Nos permite controlar la salud de los distintos microservicios de la aplicación, desplegar o reducir su cantidad en función de la demanda, etc...
 
 Propuesta de temario:
 
@@ -29,8 +30,8 @@ Propuesta de temario:
 4. Securización de sistemas web de información
 5. Securización de aplicaciones móviles
 6. Contenedores en docker
-7. Orquestadores con kubernetes
-8. Integración continuo/despliegue continuo (CI/CD)
+7. Integración continuo/despliegue continuo (CI/CD)
+8. Orquestadores con kubernetes
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
