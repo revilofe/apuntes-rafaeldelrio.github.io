@@ -18,6 +18,8 @@ Recursos:
 Herramientas:
 
 - [GPG](https://www.gnupg.org/documentation/): para el envío cifrado de información a través de las redes. Hay muchos tutoriales por internet, [como este](https://www.privex.io/articles/what-is-gpg).
+- [Suricata](https://suricata.io/): es un IDS/IPS (Sistema de detección y prevención de intrusiones) open source.
+- [Snort](https://www.snort.org/):es un IDS/IPS (Sistema de detección y prevención de intrusiones) open source. Es la alternativa a Suricata. Es anterior a Suricata, pero en la última versión, Snort 3, incluye las mejoras que lo lastraban (como procesamiento multihilo/multinúcleo), por lo que hoy en día se pueden usar ambos con las mismas garantías.
 
 Propuesta de temario:
 
