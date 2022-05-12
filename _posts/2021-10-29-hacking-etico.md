@@ -22,13 +22,13 @@ Plataformas de entrenamiento:
 
 Propuesta de temario:
 
-1. Introducción al hacking ético
-2. Footprinting
-3. Fingerprinting
-4. Explotación de sistemas
-5. Postexplotación de sistemas
-6. Pentesting de aplicaciones web
-7. Pentesting de redes wifi
+1. [Introducción al hacking ético](/ceti/hacking-etico/introduccion-hacking-etico)
+2. [Footprinting](/ceti/hacking-etico/footprinting)
+3. [Fingerprinting](/ceti/hacking-etico/fingerprinting)
+4. [Explotación de sistemas](/ceti/hacking-etico/explotacion-sistemas)
+5. [Postexplotación de sistemas](/ceti/hacking-etico/postexplotacion-sistemas)
+6. [Pentesting de aplicaciones web](/ceti/hacking-etico/pentesting-aplicaciones-web)
+7. [Pentesting de redes wifi](/ceti/hacking-etico/pentesting-aplicaciones-web)
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 

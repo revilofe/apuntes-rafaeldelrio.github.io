@@ -29,12 +29,12 @@ Herramientas:
 
 Propuesta de temario:
 
-1. Planes de ciberseguridad
-2. Análisis de incidentes de ciberseguridad
-3. Construcción de un CyberSOC
-4. Investigación de incidentes de ciberseguridad
-5. Implementación de medidas
-6. Documentación y notificación de incidentes
+1. [Planes de ciberseguridad](/ceti/incidentes-de-ciberseguridad/planes-de-ciberseguridad)
+2. [Análisis de incidentes de ciberseguridad](/ceti/incidentes-de-ciberseguridad/analisis-de-incidentes-de-ciberseguridad)
+3. [Construcción de un CyberSOC](/ceti/incidentes-de-ciberseguridad/construccion-de-un-cybersoc)
+4. [Investigación de incidentes de ciberseguridad](/ceti/incidentes-de-ciberseguridad/investigacion-de-incidentes-de-ciberseguridad)
+5. [Implementación de medidas](/ceti/incidentes-de-ciberseguridad/implementacion-de-medidas)
+6. [Documentación y notificación de incidentes](/ceti/incidentes-de-ciberseguridad/documentacion-y-notificacion-de-incidentes)
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
