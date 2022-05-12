@@ -8,6 +8,14 @@ tags:
 
 {{ site.licencia }}
 
+Libros:
+
+- [JoyOfCryptography](https://joyofcryptography.com/)
+
+Recursos:
+
+- [Simulador de routers TP-Link](https://www.tp-link.com/es/support/emulator/)
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF

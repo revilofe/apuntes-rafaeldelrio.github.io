@@ -9,10 +9,8 @@ main:
   - title: "Etiquetas"
     url: /tags/
     description: "Ver las etiquetas de los apuntes"
-#  - title: "Posts"
-#    url: /posts/
-#  - title: "About"
-#    url: /about/
+  - title: "Sobre el proyecto"
+    url: /about/
 
 menu:
   - title: Ciberseguridad en Entornos de las Tecnologías de la Información

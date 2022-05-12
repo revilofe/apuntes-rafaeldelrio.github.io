@@ -8,6 +8,14 @@ tags:
 
 {{ site.licencia }}
 
+Libros:
+
+- [El libro de Ra-Ma de normativa de ciberseguridad](https://www.ra-ma.es/libro/normativa-de-ciberseguridad_132894/) puede ser un buen punto de partida para organizar la estructura del temario.
+
+Recursos:
+
+- [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173_Codigo_de_Derecho_de_la_Ciberseguridad&modo=1): aquí están recogidas las principales normativas relacionadas con esta materia.
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF

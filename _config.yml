@@ -7,11 +7,11 @@
 title: Apuntes informática
 email: sin-definir-aun@email.com
 description: >- # con esto ignoramos nuevas líneas hasta la siguiente variable.
-  En este repositorio se almacenarán apuntes para el Curso de Especialización en
+  En este repositorio se almacenarán apuntes y recursos para el Curso de Especialización en
   Ciberseguridad en Entornos de las Tecnologías de la Información (CETI).
 twitter_username: sindefinir
 github_username: RafaeldelRio
-licencia: Todos los apuntes se encuentran bajo la licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
+licencia: Todos el contenido de la web se encuentran bajo la licencia [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/)
 
 # Configuración del tema
 remote_theme: mmistakes/minimal-mistakes

@@ -8,6 +8,15 @@ tags:
 
 {{ site.licencia }}
 
+Libros:
+
+- [El libro de Ra-Ma de gestión de incidentes](https://www.ra-ma.es/libro/gestion-de-incidentes-de-ciberseguridad_139033/) puede ser un buen punto de partida para organizar la estructura del temario.
+
+Plataformas de entrenamiento:
+
+- [Cyberdefenders](https://cyberdefenders.org/)
+- [Let's Defend](https://letsdefend.io/)
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF
