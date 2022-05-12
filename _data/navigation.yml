@@ -1,14 +1,5 @@
 # Aquí se configuran las opciones del menú superior.
 main:
-  - title: "SMR"
-    url: /smr/
-    description: "Apuntes de SMR"
-  - title: "DAW"
-    url: /daw/
-    description: "Apuntes de DAW"
-  - title: "ASIR"
-    url: /asir/
-    description: "Apuntes de ASIR"
   - title: "CETI"
     url: /ceti/
     description: "Apuntes de CETI"
@@ -24,69 +15,6 @@ main:
 #    url: /about/
 
 menu:
-  - title: Sistemas Microinformáticos y Redes
-    children:
-      - title: "Redes locales"
-        url: /smr/redes-locales/
-      - title: "Aplicaciones ofimáticas"
-        url: /smr/aplicaciones-ofimaticas/
-      - title: "Montaje y mantenimiento de equipos"
-        url: /smr/montaje-y-mantenimiento-de-equipos/
-      - title: "Sistemas operativos monopuesto"
-        url: /smr/sistemas-operativos-monopuesto/
-      - title: "Servicios en red"
-        url: /smr/servicios-en-red/
-      - title: "Sistemas operativos en red"
-        url: /smr/sistemas-operativos-en-red/
-      - title: "Seguridad informática"
-        url: /smr/seguridad-informatica/
-      - title: "Aplicaciones web"
-        url: /smr/aplicaciones-web/
-
-  - title: Desarrollo de Aplicaciones Web
-    children:
-      - title: "Sistemas informáticos"
-        url: /daw/sistemas-informaticos/
-      - title: "Bases de datos"
-        url: /daw/bases-de-datos/
-      - title: "Programación"
-        url: /daw/programacion/
-      - title: "Lenguajes de marcas y sistemas de gestión de información"
-        url: /daw/asir/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/
-      - title: "Entornos de desarrollo"
-        url: /daw/entornos-de-desarrollo/
-      - title: "Desarrollo web en entorno cliente"
-        url: /daw/desarrollo-web-entorno-cliente/
-      - title: "Desarrollo web en entorno servidor"
-        url: /daw/desarrollo-web-entorno-servidor/
-      - title: "Despliegue de aplicaciones web"
-        url: /daw/despliegue-aplicaciones-web/
-      - title: "Diseño de interfaces web"
-        url: /daw/diseno-interfaces-web/
-
-  - title: Administración de Sistemas Informáticos en Red
-    children:
-      - title: "Implantación de sistemas operativos"
-        url: /asir/implantacion-de-sistemas-operativos/
-      - title: "Planificación y administración de redes"
-        url: /asir/planificacion-y-administracion-de-redes/
-      - title: "Fundamentos de hardware"
-        url: /asir/fundamentos-de-hardware/
-      - title: "Gestión de bases de datos"
-        url: /asir/gestion-de-bases-de-datos/
-      - title: "Lenguajes de marcas y sistemas de gestión de información"
-        url: /daw/asir/lenguajes-de-marcas-y-sistemas-de-gestion-de-informacion/
-      - title: "Administración de sistemas operativos"
-        url: /asir/administracion-de-sistemas-operativos/
-      - title: "Servicios de red e internet"
-        url: /asir/servicios-de-red-e-internet/
-      - title: "Implantación de aplicaciones web"
-        url: /asir/implantacion-de-aplicaciones-web/
-      - title: "Administración de sistemas gestores de bases de datos"
-        url: /asir/administracion-de-sistemas-gestores-de-bases-de-datos/
-      - title: "Seguridad y alta disponibilidad"
-        url: /asir/seguridad-y-alta-disponibilidad/
-
   - title: Ciberseguridad en Entornos de las Tecnologías de la Información
     children:
       - title: "Incidentes de ciberseguridad"
