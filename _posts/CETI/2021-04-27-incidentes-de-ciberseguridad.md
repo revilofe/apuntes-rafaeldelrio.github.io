@@ -18,12 +18,22 @@ Plataformas de entrenamiento:
 
 Recursos:
 
--[Incibe](https://www.incibe.es/protege-tu-empresa/tematicas/gestion-incidentes-seguridad): el instituto nacional de ciberseguridad pone a nuestra disposición bastantes materiales para la gestión de incidentes de ciberseguridad.
+- [Incibe](https://www.incibe.es/protege-tu-empresa/tematicas/gestion-incidentes-seguridad): el instituto nacional de ciberseguridad pone a nuestra disposición bastantes materiales para la gestión de incidentes de ciberseguridad.
+- [Awesome Incident Response](https://github.com/meirwah/awesome-incident-response): repositorio de github con muchas herramientas para la detección y gestión de incidentes.
 
 Herramientas:
 
 - [Gophish](https://getgophish.com/): nos permite realizar entrenamientos para mejorar la concienciación frente a ataques de phishing.
 - [Suite ELK con docker](https://hub.docker.com/r/sebp/elk/tags): nos permite montar un SIEM de forma sencilla. Para recolectar datos para el SIEM podemos emplear [Filebeat](https://www.elastic.co/es/beats/filebeat), [Winlogbeat](https://www.elastic.co/es/beats/winlogbeat), [Heartbeat](https://www.elastic.co/es/beats/heartbeat), [Metricbeat](https://www.elastic.co/es/beats/metricbeat), [Packetbeat](https://www.elastic.co/es/beats/packetbeat), [etc...](https://www.elastic.co/es/beats/)
+
+Propuesta de temario:
+
+1. Planes de ciberseguridad
+2. Análisis de incidentes de ciberseguridad
+3. Construcción de un CyberSOC
+4. Investigación de incidentes de ciberseguridad
+5. Implementación de medidas
+6. Documentación y notificación de incidentes
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
