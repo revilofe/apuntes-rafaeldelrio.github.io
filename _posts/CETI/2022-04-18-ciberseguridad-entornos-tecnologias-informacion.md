@@ -1,9 +1,5 @@
 ---
 title: "Ciberseguridad en Entornos de las Tecnologías de la Información"
-categories:
-  - Cursos especialización
-tags:
-  - CETI
 permalink: /ceti/
 ---
 

@@ -1,9 +1,9 @@
 ---
 title: "Normativa de ciberseguridad"
 categories:
-  - CETI
+  - NC
 tags:
-  - CETI
+  - General
 ---
 
 {{ site.licencia }}

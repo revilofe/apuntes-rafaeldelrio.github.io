@@ -1,9 +1,9 @@
 ---
 title: "Incidentes de ciberseguridad"
 categories:
-  - CETI
+  - IC
 tags:
-  - CETI
+  - General
 ---
 
 {{ site.licencia }}

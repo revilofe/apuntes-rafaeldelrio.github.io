@@ -1,9 +1,9 @@
 ---
 title: "Analisis forense informático"
 categories:
-  - CETI
+  - AFI
 tags:
-  - CETI
+  - General
 ---
 
 {{ site.licencia }}

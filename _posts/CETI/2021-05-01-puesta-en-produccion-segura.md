@@ -1,9 +1,9 @@
 ---
 title: "Puesta en producción segura"
 categories:
-  - CETI
+  - PPS
 tags:
-  - CETI
+  - General
 ---
 
 {{ site.licencia }}

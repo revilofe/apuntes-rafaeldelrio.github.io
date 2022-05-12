@@ -1,9 +1,9 @@
 ---
 title: "Hacking ético"
 categories:
-  - CETI
+  - HE
 tags:
-  - CETI
+  - General
 ---
 
 {{ site.licencia }}

@@ -1,9 +1,9 @@
 ---
 title: "Bastionado de redes y sistemas"
 categories:
-  - CETI
+  - BRS
 tags:
-  - CETI
+  - General
 ---
 
 {{ site.licencia }}
