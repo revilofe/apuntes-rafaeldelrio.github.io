@@ -98,7 +98,7 @@ defaults:
       read_time: true
       comments: false # Quitamos los comentarios por ahora
       share: false # Quitamos los enlaces a las redes sociales
-      related: true
+      related: false # Quitamos los relacionados
       # No queremos ver los datos míos en todos los posts
       author_profile: false
       # En su lugar, metemos una sidebar
