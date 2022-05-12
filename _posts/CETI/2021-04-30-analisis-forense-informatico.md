@@ -1,5 +1,6 @@
 ---
 title: "Analisis forense informático"
+permalink: /ceti/analisis-forense-informatico
 categories:
   - AFI
 tags:

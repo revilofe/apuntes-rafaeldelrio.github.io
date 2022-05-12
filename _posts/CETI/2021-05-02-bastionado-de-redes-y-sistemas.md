@@ -1,5 +1,6 @@
 ---
 title: "Bastionado de redes y sistemas"
+permalink: /ceti/bastionado-de-redes-y-sistemas
 categories:
   - BRS
 tags:

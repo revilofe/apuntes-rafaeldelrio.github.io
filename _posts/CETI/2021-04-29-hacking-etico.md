@@ -1,5 +1,6 @@
 ---
 title: "Hacking ético"
+permalink: /ceti/hacking-etico
 categories:
   - HE
 tags:

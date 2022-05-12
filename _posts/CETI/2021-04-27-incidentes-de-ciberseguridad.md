@@ -1,5 +1,6 @@
 ---
 title: "Incidentes de ciberseguridad"
+permalink: /ceti/incidentes-de-ciberseguridad
 categories:
   - IC
 tags:

@@ -1,5 +1,6 @@
 ---
 title: "Puesta en producción segura"
+permalink: /ceti/puesta-en-produccion-segura
 categories:
   - PPS
 tags:

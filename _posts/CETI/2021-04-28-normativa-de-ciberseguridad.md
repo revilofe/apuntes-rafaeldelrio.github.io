@@ -1,5 +1,6 @@
 ---
 title: "Normativa de ciberseguridad"
+permalink: /ceti/normativa-de-ciberseguridad
 categories:
   - NC
 tags:
