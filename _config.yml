@@ -1,6 +1,6 @@
 # En este archivo es donde se configura toda la web.
 # Por aspectos de seguridad, este archivo no se auto recarga con
-# "build exec jekyll serve --autoreload"
+# "bundle exec jekyll serve --livereload"
 
 # Configuración de la web. Se accede mediante {{ site.title }}, {{ site.email }}...
 # Se pueden crear las variables personalizadas que queramos y usarlas en los HTML.
