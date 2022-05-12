@@ -36,7 +36,7 @@ Información sobre el módulo profesional de puesta en producción segura. Esta 
 4. Securización de sistemas web de información
 5. Securización de aplicaciones móviles
 6. Contenedores en docker
-7. Integración continuo/despliegue continuo (CI/CD)
+7. Integración continua/despliegue continuo (CI/CD)
 8. Orquestadores con kubernetes
 
 ##### Contribuir
