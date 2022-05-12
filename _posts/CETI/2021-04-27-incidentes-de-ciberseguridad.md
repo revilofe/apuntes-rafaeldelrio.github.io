@@ -19,7 +19,7 @@ Plataformas de entrenamiento:
 
 Recursos:
 
--
+-[Incibe](https://www.incibe.es/protege-tu-empresa/tematicas/gestion-incidentes-seguridad): el instituto nacional de ciberseguridad pone a nuestra disposición bastantes materiales para la gestión de incidentes de ciberseguridad.
 
 Herramientas:
 
