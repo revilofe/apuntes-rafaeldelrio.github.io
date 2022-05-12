@@ -105,8 +105,8 @@ defaults:
     values:
       layout: single
       read_time: true
-      comments: true
-      share: true
+      comments: false # Quitamos los comentarios por ahora
+      share: false # Quitamos los enlaces a las redes sociales
       related: true
       # No queremos ver los datos míos en todos los posts
       author_profile: false
