@@ -15,6 +15,14 @@ Herramientas:
 
 - [Autopsy](https://www.autopsy.com/)
 
+Propuesta de temario:
+
+1. Introducción y fases del análisis forense
+2. Análisis forense en dispositivos móviles
+3. Análisis forense en arquitecturas cloud
+4. Análisis forense en dispositivos IOT
+5. Generación de informes forenses
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF

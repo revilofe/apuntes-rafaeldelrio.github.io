@@ -18,6 +18,16 @@ Plataformas de entrenamiento:
 - [HackTheBox](https://www.hackthebox.com/)
 - [RootMe](https://www.root-me.org/?lang=es)
 
+Propuesta de temario:
+
+1. Introducción al hacking ético
+2. Footprinting
+3. Fingerprinting
+4. Explotación de sistemas
+5. Postexplotación de sistemas
+6. Pentesting de aplicaciones web
+7. Pentesting de redes wifi
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF

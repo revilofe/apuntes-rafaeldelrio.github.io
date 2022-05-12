@@ -15,6 +15,14 @@ Recursos:
 
 - [Código de Derecho de la Ciberseguridad](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=173_Codigo_de_Derecho_de_la_Ciberseguridad&modo=1): aquí están recogidas las principales normativas relacionadas con esta materia.
 
+Propuesta de temario:
+
+1. Bases del cumplimiento normativo
+2. Diseño de sistemas de compliance
+3. Legislación para el cumplimiento de la responsabilidad penal
+4. Legislación para la protección de datos
+5. Normativa de ciberseguridad y jurisprudencia
+
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
 - Teoría: en formato editable (como libreoffice, un .odt), o en documentos PDF
