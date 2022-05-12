@@ -5,25 +5,29 @@ categories:
   - BRS
 tags:
   - General
+# Relacionado con la tabla de contenidos
+toc: true
+toc_label: "Contenido"
+toc_icon: "file-code"
 ---
 
 Información sobre el módulo profesional de bastionado de redes y sistemas. Esta información se divide en libros recomendados, recursos, herramientas para aplicar conceptos, así como una propuesta de temario. Todo el contenido está supeditado a mejora, pues es solo una propuesta, y se espera que mejore con el tiempo con contribuciones de personas como tú. Si tienes algo interesante que puede mejorar, accede al github del proyecto y crea un pull request con la información. Gracias.
 
-Libros:
+##### Libros
 
 - [JoyOfCryptography](https://joyofcryptography.com/)
 
-Recursos:
+##### Recursos
 
 - [Simulador de routers TP-Link](https://www.tp-link.com/es/support/emulator/)
 
-Herramientas:
+##### Herramientas
 
 - [GPG](https://www.gnupg.org/documentation/): para el envío cifrado de información a través de las redes. Hay muchos tutoriales por internet, [como este](https://www.privex.io/articles/what-is-gpg).
 - [Suricata](https://suricata.io/): es un IDS/IPS (Sistema de detección y prevención de intrusiones) open source.
 - [Snort](https://www.snort.org/):es un IDS/IPS (Sistema de detección y prevención de intrusiones) open source. Es la alternativa a Suricata. Es anterior a Suricata, pero en la última versión, Snort 3, incluye las mejoras que lo lastraban (como procesamiento multihilo/multinúcleo), por lo que hoy en día se pueden usar ambos con las mismas garantías.
 
-Propuesta de temario:
+##### Propuesta de temario
 
 1. Diseño de planes de securización
 2. Sistemas de control de acceso
@@ -32,6 +36,8 @@ Propuesta de temario:
 5. Sistemas permitetrales de defensa en redes
 6. Securización de sistemas informáticos
 7. IDS/IPS
+
+##### Contribuir
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 

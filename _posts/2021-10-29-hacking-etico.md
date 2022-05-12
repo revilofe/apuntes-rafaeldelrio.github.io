@@ -5,22 +5,26 @@ categories:
   - HE
 tags:
   - General
+# Relacionado con la tabla de contenidos
+toc: true
+toc_label: "Contenido"
+toc_icon: "file-code"
 ---
 
 Información sobre el módulo profesional de hacking ético. Esta información se divide en libros recomendados, recursos, herramientas para aplicar conceptos, así como una propuesta de temario. Todo el contenido está supeditado a mejora, pues es solo una propuesta, y se espera que mejore con el tiempo con contribuciones de personas como tú. Si tienes algo interesante que puede mejorar, accede al github del proyecto y crea un pull request con la información. Gracias.
 
-Libros:
+##### Libros
 
 - [El libro de Ra-Ma de hacking ético](https://www.ra-ma.es/libro/hacking-etico_139070/) puede ser un buen punto de partida para organizar la estructura del temario.
 
-Plataformas de entrenamiento:
+##### Plataformas de entrenamiento
 
 - [TryHackMe](https://tryhackme.com/)
 - [VulnHub](https://www.vulnhub.com/)
 - [HackTheBox](https://www.hackthebox.com/)
 - [RootMe](https://www.root-me.org/?lang=es)
 
-Propuesta de temario:
+##### Propuesta de temario
 
 1. [Introducción al hacking ético](/ceti/hacking-etico/introduccion-hacking-etico)
 2. [Footprinting](/ceti/hacking-etico/footprinting)
@@ -29,6 +33,8 @@ Propuesta de temario:
 5. [Postexplotación de sistemas](/ceti/hacking-etico/postexplotacion-sistemas)
 6. [Pentesting de aplicaciones web](/ceti/hacking-etico/pentesting-aplicaciones-web)
 7. [Pentesting de redes wifi](/ceti/hacking-etico/pentesting-aplicaciones-web)
+
+##### Contribuir
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
