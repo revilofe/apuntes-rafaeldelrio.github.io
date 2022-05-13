@@ -5,6 +5,10 @@ categories:
   - IC
 tags:
   - Incidentes
+# Relacionado con la tabla de contenidos
+toc: true
+toc_label: "Contenido"
+toc_icon: "file-code"
 ---
 
 #### Contenidos
