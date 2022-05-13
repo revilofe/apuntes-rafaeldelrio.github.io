@@ -17,13 +17,31 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 3 - Administración de credenciales de acceso a sistemas informáticos:
+
+- Gestión de credenciales.
+- Infraestucturas de Clave Pública (PKI).
+- Acceso por medio de Firma electrónica.
+- Gestión de accesos. Sistemas NAC (Network Access Control, Sistemas de Gestión
+  -e Acceso a la Red).
+- Gestión de cuentas privilegiadas.
+- Protocolos RADIUS y TACACS, servicio KERBEROS, entre otros.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+3. Administra credenciales de acceso a sistemas informáticos aplicando los requisitos de funcionamiento y seguridad establecidos.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han identificado los tipos de credenciales más utilizados.
+- b) Se han generado y utilizado diferentes certificados digitales como medio de acceso a un servidor remoto.
+- c) Se ha comprobado la validez y la autenticidad de un certificado digital de un servicio web.
+- d) Se han comparado certificados digitales válidos e inválidos por diferentes motivos.
+- e) Se ha instalado y configurado un servidor seguro para la administración de credenciales (tipo RADIUS - Remote Access Dial In User Service)
 
 #### Herramientas y recursos para trabajar los conceptos
 

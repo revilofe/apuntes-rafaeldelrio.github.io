@@ -17,13 +17,33 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 1 - Diseño de planes de securización:
+
+- Análisis de riesgos.
+- Principios de la Economía Circular en la Industria 4.0.
+- Plan de medidas técnicas de seguridad.
+- Políticas de securización más habituales.
+- Guías de buenas prácticas para la securización de sistemas y redes.
+- Estándares de securización de sistemas y redes.
+- Caracterización de procedimientos, instrucciones y recomendaciones.
+- Niveles, escalados y protocolos de atención a incidencias.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+1. Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a)Se han identificado los activos, las amenazas y vulnerabilidades de la organización.
+- b) Se ha evaluado las medidas de seguridad actuales.
+- c) Se ha elaborado un análisis de riesgo de la situación actual en ciberseguridad de la organización
+- d) Se ha priorizado las medidas técnicas de seguridad a implantar en la organización teniendo también en cuenta los principios de la Economía Circular.
+- e) Se ha diseñado y elaborado un plan de medidas técnicas de seguridad a implantar en la organización, apropiadas para garantizar un nivel de seguridad adecuado en función de los riesgos de la organización.
+- f) Se han identificado las mejores prácticas en base a estándares, guías y políticas de securización adecuadas para el bastionado de los sistemas y redes de la organización.
 
 #### Herramientas y recursos para trabajar los conceptos
 

@@ -17,13 +17,30 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 4 - Diseño de redes de computadores seguras:
+
+- Segmentación de redes.
+- Subnetting.
+- Redes virtuales (VLANs).
+- Zona desmilitarizada (DMZ).
+- Seguridad en redes inalámbricas (WPA2, WPA3, etc.).
+- Protocolos de red seguros (IPSec, etc.).
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+4. Diseña redes de computadores contemplando los requisitos de seguridad.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se ha incrementado el nivel de seguridad de una red local plana segmentándola físicamente y utilizando técnicas y dispositivos de enrutamiento.
+- b) Se ha optimizado una red local plana utilizando técnicas de segmentación lógica (VLANs).
+- c) Se ha adaptado un segmento de una red local ya operativa utilizando técnicas de subnetting para incrementar su segmentación respetando los direccionamientos existentes.
+- d) Se han configurado las medidas de seguridad adecuadas en los dispositivos que dan acceso a una red inalámbrica (routers, puntos de acceso, etc.).
+- e) Se ha establecido un túnel seguro de comunicaciones entre dos sedes geográficamente separadas.
 
 #### Herramientas y recursos para trabajar los conceptos
 
