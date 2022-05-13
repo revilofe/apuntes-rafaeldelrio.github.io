@@ -30,3 +30,8 @@ Bloque 4 - Implementación de medidas de ciberseguridad:
 - d) Se han llevado a cabo las tareas de restablecimiento de los servicios afectados por un incidente hasta confirmar la vuelta a la normalidad.
 - e) Se han documentado las acciones realizadas y las conclusiones que permitan mantener un registro de “lecciones aprendidas”.
 - f) Se ha realizado un seguimiento adecuado del incidente para evitar que una situación similar se vuelva a repetir.
+
+#### Herramientas y recursos para trabajar los conceptos
+
+- **Criterio de evaluación a**: se pueden desarrollar procedimientos de actuación basándonos en los que nos ofrece [Incibe en los siguientes casos](https://www.incibe.es/protege-tu-empresa/juego-rol-pyme-seguridad). Con este juego el alumnado puede trabajar posibles incidentes y desarrollar a partir de ellos sus soluciones.
+- **Criterio de evaluación e**: se puede montar [una herramienta de ticketing, como FIR,](https://github.com/certsocietegenerale/FIR/) para llevar el control de los incidentes, desde su origen hasta su resolución. Se puede usar [una herramienta como DFIRTrack](https://github.com/dfirtrack/dfirtrack) para llevar las evidencias y artefactos de los incidentes de ciberseguridad.

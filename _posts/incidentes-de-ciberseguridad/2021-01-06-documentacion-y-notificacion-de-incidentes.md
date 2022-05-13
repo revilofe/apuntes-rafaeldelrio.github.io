@@ -27,3 +27,8 @@ Bloque 5 - Detección y documentación de incidentes de ciberseguridad:
 - c) Se ha notificado el incidente de manera adecuada a las autoridades competentes en el ámbito de la gestión de incidentes de ciberseguridad en caso de ser necesario.
 - d) Se ha notificado formalmente el incidente a los afectados, personal interno, clientes, proveedores, etc., en caso de ser necesario.
 - e) Se ha notificado el incidente a los medios de comunicación en caso de ser necesario.
+
+#### Herramientas y recursos para trabajar los conceptos
+
+- **Criterio de evaluación a**: para comprender el procedimiento de notificación de incidentes, Incibe pone a nuestra disposición la [guía nacional de notificación y gestión de ciberincidentes](https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf).
+- **Criterio de evaluación c**: uno de los organismos a los que hay que notificar es [incibe, y en la web indica cómo](https://www.incibe.es/protege-tu-empresa/reporta-tu-incidente).
