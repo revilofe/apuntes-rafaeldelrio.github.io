@@ -25,7 +25,7 @@ Bloque 1 - Desarrollo de planes de prevención y concienciación en cibersegurid
 
 1. Desarrolla planes de prevención y concienciación en ciberseguridad, estableciendo normas y medidas de protección
 
-###### Criterios de evaluación
+##### Criterios de evaluación
 
 - a) Se han definido los principios generales de la organización en materia de ciberseguridad, que deben ser conocidos y apoyados por la dirección de la misma.
 - b) Se ha establecido una normativa de protección del puesto de trabajo.

@@ -22,7 +22,7 @@ Bloque 2 - Auditoría de incidentes de ciberseguridad:
 
 2. Analiza incidentes de ciberseguridad utilizando herramientas, mecanismos de detección y alertas de seguridad.
 
-###### Criterios de evaluación
+##### Criterios de evaluación
 
 - b) Se han establecido controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes
 - e) Se ha realizado una clasificación, valoración, documentación y seguimiento de los incidentes detectados dentro de la organización.

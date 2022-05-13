@@ -24,7 +24,7 @@ Bloque 5 - Detección y documentación de incidentes de ciberseguridad:
 5. Detecta y documenta incidentes de ciberseguridad siguiendo procedimientos de
    actuación establecidos.
 
-###### Criterios de evaluación
+##### Criterios de evaluación
 
 - a) Se ha desarrollado un procedimiento de actuación detallado para la notificación de incidentes de ciberseguridad en los tiempos adecuados.
 - b) Se ha notificado el incidente de manera adecuada al personal interno de la organización responsable de la toma de decisiones.

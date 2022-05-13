@@ -16,6 +16,6 @@ toc_icon: "file-code"
 
 #### Resultados de aprendizaje a trabajar
 
-###### Criterios de evaluación
+##### Criterios de evaluación
 
 #### Herramientas y recursos para trabajar los conceptos

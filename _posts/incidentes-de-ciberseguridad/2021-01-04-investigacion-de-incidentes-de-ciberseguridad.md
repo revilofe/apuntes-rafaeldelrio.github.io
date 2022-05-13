@@ -25,7 +25,7 @@ Bloque 3 - Investigación de los incidentes de ciberseguridad:
 
 3. Investiga incidentes de ciberseguridad analizando los riesgos implicados y definiendo las posibles medidas a adoptar.
 
-###### Criterios de evaluación
+##### Criterios de evaluación
 
 - a) Se han recopilado y almacenado de forma segura evidencias de incidentes de ciberseguridad que afectan a la organización.
 - b) Se ha realizado un análisis de evidencias.
