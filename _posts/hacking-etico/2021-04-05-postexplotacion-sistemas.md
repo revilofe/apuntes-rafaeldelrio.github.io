@@ -1,5 +1,5 @@
 ---
-title: "Postexplotación de sistemas"
+title: "UD 5 - Postexplotación de sistemas"
 permalink: /ceti/hacking-etico/postexplotacion-sistemas
 categories:
   - HE
@@ -12,4 +12,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

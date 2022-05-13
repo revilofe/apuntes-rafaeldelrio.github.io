@@ -1,5 +1,5 @@
 ---
-title: "Generación de informes forenses"
+title: "UD 5 - Generación de informes forenses"
 permalink: /ceti/analisis-forense-informatico/generacion-de-informes-forenses
 categories:
   - AFI
@@ -11,4 +11,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

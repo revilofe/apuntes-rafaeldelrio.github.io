@@ -1,5 +1,5 @@
 ---
-title: "Vectores de ataque y OWASP"
+title: "UD 3 - Vectores de ataque y OWASP"
 permalink: /ceti/puesta-en-produccion-segura/vectores-de-ataque-y-owasp
 categories:
   - PPS
@@ -11,4 +11,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

@@ -1,5 +1,5 @@
 ---
-title: "Orquestadores con kubernetes"
+title: "UD 8 - Orquestadores con kubernetes"
 permalink: /ceti/puesta-en-produccion-segura/orquestadores-con-kubernetes
 categories:
   - PPS
@@ -11,4 +11,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

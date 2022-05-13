@@ -1,5 +1,5 @@
 ---
-title: "Footprinting"
+title: "UD 2 - Footprinting"
 permalink: /ceti/hacking-etico/footprinting
 categories:
   - HE
@@ -12,4 +12,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

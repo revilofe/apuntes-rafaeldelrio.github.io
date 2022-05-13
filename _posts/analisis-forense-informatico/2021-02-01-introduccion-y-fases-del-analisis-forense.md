@@ -1,5 +1,5 @@
 ---
-title: "Introducción y fases del análisis forense"
+title: "UD 1 - Introducción y fases del análisis forense"
 permalink: /ceti/analisis-forense-informatico/introduccion-y-fases-del-analisis-forense
 categories:
   - AFI
@@ -11,4 +11,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

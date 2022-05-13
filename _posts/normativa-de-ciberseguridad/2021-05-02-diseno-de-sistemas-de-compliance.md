@@ -1,5 +1,5 @@
 ---
-title: "Diseño de sistemas de compliance"
+title: "UD 2 - Diseño de sistemas de compliance"
 permalink: /ceti/normativa-de-ciberseguridad/diseno-de-sistemas-de-compliance
 categories:
   - NC
@@ -11,4 +11,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos

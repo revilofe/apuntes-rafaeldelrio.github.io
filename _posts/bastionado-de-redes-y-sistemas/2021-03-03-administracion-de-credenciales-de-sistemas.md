@@ -1,5 +1,5 @@
 ---
-title: "Administración de credenciales de sistemas"
+title: "UD 3 - Administración de credenciales de sistemas"
 permalink: /ceti/bastionado-de-redes-y-sistemas/administracion-de-credenciales-de-sistemas
 categories:
   - BRS
@@ -11,4 +11,10 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
-Todavía está vacío.
+#### Contenidos
+
+#### Resultados de aprendizaje a trabajar
+
+###### Criterios de evaluación
+
+#### Herramientas y recursos para trabajar los conceptos
