@@ -21,9 +21,16 @@ En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, 
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+2. Determina el nivel de seguridad requerido por aplicaciones identificando los vectores de ataque habituales y sus riesgos asociados.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han caracterizado los niveles de verificación de seguridad en aplicaciones establecidos por los estándares internacionales (ASVS, “ Application Security Verification Standard”).
+- b) Se ha identificado el nivel de verificación de seguridad requerido por las aplicaciones en función de sus riesgos de acuerdo a estándares reconocidos.
+- c) Se han enumerado los requisitos de verificación necesarios asociados al nivel de seguridad establecido.
+- d) Se han reconocido los principales riesgos de las aplicaciones desarrolladas, en función de sus características.
 
 #### Herramientas y recursos para trabajar los conceptos
 

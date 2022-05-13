@@ -21,9 +21,17 @@ En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, 
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+4. Detecta problemas de seguridad en las aplicaciones para dispositivos móviles, monitorizando su ejecución y analizando ficheros y datos.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han comparado los diferentes modelos de permisos de las plataformas móviles.
+- b) Se han descrito técnicas de almacenamiento seguro de datos en los dispositivos, para evitar la fuga de información.
+- c) Se ha implantado un sistema de validación de compras integradas en la aplicación haciendo uso de validación en el servidor.
+- d) Se han utilizado herramientas de monitorización de tráfico de red para detectar el uso de protocolos inseguros de comunicación de las aplicaciones móviles.
+- e) Se han inspeccionado binarios de aplicaciones móviles para buscar fugas de información sensible.
 
 #### Herramientas y recursos para trabajar los conceptos
 

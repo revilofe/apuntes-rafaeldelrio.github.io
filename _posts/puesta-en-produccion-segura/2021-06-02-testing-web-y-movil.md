@@ -17,13 +17,23 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Prueba de aplicaciones web y para dispositivos móviles:
+
+- Pruebas. Tipos.
+- Seguridad en los lenguajes de programación y sus entornos de ejecución (“sandboxes”).
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- d) Se han ejecutado diferentes tipos de prueba de software.
+- e) Se han evaluado los lenguajes de programación de acuerdo a la infraestructura de seguridad que proporcionan.
 
 #### Herramientas y recursos para trabajar los conceptos
 

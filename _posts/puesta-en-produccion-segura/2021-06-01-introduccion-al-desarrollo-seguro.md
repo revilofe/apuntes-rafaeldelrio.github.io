@@ -17,13 +17,27 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Prueba de aplicaciones web y para dispositivos móviles:
+
+- Fundamentos de la programación.
+- Lenguajes de programación interpretados y compilados.
+- Código fuente y entornos de desarrollo.
+- Ejecución de software.
+- Elementos principales de los programas.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+1. Prueba aplicaciones web y aplicaciones para dispositivos móviles analizando la estructura del código y su modelo de ejecución.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han comparado diferentes lenguajes de programación de acuerdo a sus características principales.
+- b) Se han descrito los diferentes modelos de ejecución de software.
+- c) Se han reconocido los elementos básicos del código fuente, dándoles significado.
 
 #### Herramientas y recursos para trabajar los conceptos
 

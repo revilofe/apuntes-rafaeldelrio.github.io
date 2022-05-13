@@ -21,9 +21,19 @@ En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, 
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+3. Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han validado las entradas de los usuarios.
+- b) Se han detectado riesgos de inyección tanto en el servidor como en el cliente.
+- c) Se ha gestionado correctamente la sesión del usuario durante el uso de la aplicación.
+- d) Se ha hecho uso de roles para el control de acceso.
+- e) Se han utilizado algoritmos criptográficos seguros para almacenar las contraseñas de usuario.
+- f) Se han configurado servidores web para reducir el riesgo de sufrir ataques conocidos.
+- g) Se han incorporado medidas para evitar los ataques a contraseñas, envío masivo de mensajes o registros de usuarios a través de programas automáticos (bots).
 
 #### Herramientas y recursos para trabajar los conceptos
 
