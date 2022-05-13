@@ -11,7 +11,11 @@ toc_label: "Contenido"
 toc_icon: "file-code"
 ---
 
+Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desglosados en criterios de evaluación), una práctica o prácticas para evaluar la adquisición de dichos criterios de evaluación y una prueba teórica para evaluar la asimilación de contenido.
+
 #### Contenidos
+
+En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
 Bloque 4 - Implementación de medidas de ciberseguridad:
 
@@ -22,11 +26,15 @@ Bloque 4 - Implementación de medidas de ciberseguridad:
 - Documentación
 - Seguimiento de incidentes para evitar una situación similar.
 
-#### Resultados de aprendizaje
+#### Resultados de aprendizaje a trabajar
+
+En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
 4. Implementa medidas de ciberseguridad en redes y sistemas respondiendo a los incidentes detectados y aplicando las técnicas de protección adecuadas
 
 ##### Criterios de evaluación
+
+En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
 - a) Se han desarrollado procedimientos de actuación detallados para dar respuesta, mitigar, eliminar o contener los tipos de incidentes de ciberseguridad más habituales.
 - b) Se han preparado respuestas ciberresilientes ante incidentes que permitan seguir prestando los servicios de la organización y fortaleciendo las capacidades de identificación, detección, prevención, contención, recuperación y cooperación con terceros.
@@ -37,5 +45,15 @@ Bloque 4 - Implementación de medidas de ciberseguridad:
 
 #### Herramientas y recursos para trabajar los conceptos
 
+Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
+
 - **Criterio de evaluación a**: se pueden desarrollar procedimientos de actuación basándonos en los que nos ofrece [Incibe en los siguientes casos](https://www.incibe.es/protege-tu-empresa/juego-rol-pyme-seguridad). Con este juego el alumnado puede trabajar posibles incidentes y desarrollar a partir de ellos sus soluciones.
 - **Criterio de evaluación e**: se puede montar [una herramienta de ticketing, como FIR,](https://github.com/certsocietegenerale/FIR/) para llevar el control de los incidentes, desde su origen hasta su resolución. Se puede usar [una herramienta como DFIRTrack](https://github.com/dfirtrack/dfirtrack) para llevar las evidencias y artefactos de los incidentes de ciberseguridad.
+
+#### Práctica de la unidad
+
+En esta sección se incluye una propuesta de práctica o prácticas con los que evaluar la unidad.
+
+#### Controles de ejemplo
+
+En esta sección se incluyen controles de ejemplo para evaluar la unidad.
