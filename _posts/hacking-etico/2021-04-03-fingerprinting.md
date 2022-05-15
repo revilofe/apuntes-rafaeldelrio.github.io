@@ -42,6 +42,16 @@ En esta sección se relaciona la unidad con los criterios de evaluación concret
 
 Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
 
+- **Criterio de evaluación b**: se pueden emplear las siguientes herramientas:
+
+  - nmap
+  - nesus
+  - greenbone vulnerability management (anteriormente conocido como OpenVAS)
+
+- **Criterio de evaluación c**: se pueden emplear las siguientes herramientas:
+  - wireshark
+  - ntopng
+
 #### Práctica de la unidad
 
 En esta sección se incluye una propuesta de práctica o prácticas con los que evaluar la unidad.
