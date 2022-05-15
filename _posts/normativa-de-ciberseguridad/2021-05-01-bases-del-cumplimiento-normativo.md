@@ -17,13 +17,28 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 1 - Puntos principales de aplicación para un correcto cumplimiento normativo:
+
+- Introducción al cumplimiento normativo (Compliance: objetivo, definición y conceptos principales).
+- Principios del buen gobierno y ética empresarial.
+- Compliance Officer: funciones y responsabilidades.
+- Relaciones con terceras partes dentro del Compliance.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+1.  Identifica los puntos principales de aplicación para asegurar el cumplimiento normativo reconociendo funciones y responsabilidades.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han identificado las bases del cumplimiento normativo a tener en cuenta en las organizaciones.
+- b) Se han descrito y aplicado los principios de un buen gobierno y su relación con la ética profesional.
+- c) Se han definido las políticas y procedimientos, así como la estructura organizativa que establezca la cultura del cumplimiento normativo dentro de las organizaciones.
+- d) Se han descrito las funciones o competencias del responsable del cumplimiento normativo dentro de las organizaciones.
+- e) Se han establecido las relaciones con terceros para un correcto cumplimiento normativo.
 
 #### Herramientas y recursos para trabajar los conceptos
 
