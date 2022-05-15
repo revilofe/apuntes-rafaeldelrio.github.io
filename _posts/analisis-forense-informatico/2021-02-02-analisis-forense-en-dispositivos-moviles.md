@@ -17,13 +17,25 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 2 - Realización de análisis forenses en dispositivos móviles:
+
+- Métodos para la extracción de evidencias.
+- Herramientas de mercado más comunes.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+2. Realiza análisis forenses en dispositivos móviles, aplicando metodologías establecidas, actualizadas y reconocidas
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se ha realizado el proceso de toma de evidencias en un dispositivo móvil.
+- b) Se han extraído, decodificado y analizado las pruebas conservando la cadena de custodia.
+- c) Se han generado informes de datos móviles, cumpliendo con los requisitos de la industria forense de telefonía móvil.
+- d) Se han presentado y expuesto las conclusiones del análisis forense realizado a quienes proceda.
 
 #### Herramientas y recursos para trabajar los conceptos
 

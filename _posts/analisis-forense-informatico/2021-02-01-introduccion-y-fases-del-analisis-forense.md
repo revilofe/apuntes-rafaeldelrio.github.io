@@ -17,13 +17,31 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 1 - Aplicación de metodologías de análisis forenses:
+
+- Identificación de los dispositivos a analizar.
+- Recolección de evidencias (trabajar un escenario).
+- Análisis de la línea de tiempo (TimeStamp).
+- Análisis de volatilidad – Extracción de información (Volatility).
+- Análisis de Logs, herramientas más usadas.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+1. Aplica metodologías de análisis forense caracterizando las fases de preservación, adquisición, análisis y documentación.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se han identificado los dispositivos a analizar para garantizar la preservación de evidencias.
+- b) Se han utilizado los mecanismos y las herramientas adecuadas para la adquisición y extracción de las evidencias.
+- c) Se ha asegurado la escena y conservado la cadena de custodia.
+- d) Se ha documentado el proceso realizado de manera metódica.
+- e) Se ha considerado la línea temporal de las evidencias.
+- f) Se ha elaborado un informe de conclusiones a nivel técnico y ejecutivo.
+- g) Se han presentado y expuesto las conclusiones del análisis forense realizado.
 
 #### Herramientas y recursos para trabajar los conceptos
 

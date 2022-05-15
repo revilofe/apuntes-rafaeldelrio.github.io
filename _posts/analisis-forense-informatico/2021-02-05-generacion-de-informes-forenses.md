@@ -17,13 +17,36 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Documentación y elaboración de informes de análisis forenses. Apartados de los que se
+compone el informe:
+
+- Hoja de identificación (título, razón social, nombre y apellidos, firma).
+- Índice de la memoria.
+- Objeto (objetivo del informe pericial y su justificación).
+- Alcance (ámbito de aplicación del informe pericial - resumen ejecutivo para una supervisión rápida del contenido y resultados).
+- Antecedentes (aspectos necesarios para la comprensión de las alternativas estudiadas y las conclusiones finales).
+- Normas y referencias (documentos y normas legales y reglamentos citados en los distintos apartados).
+- Definiciones y abreviaturas (definiciones, abreviaturas y expresiones técnicas que se han utilizado a lo largo del informe).
+- Requisitos (bases y datos de partida establecidos por el cliente, la legislación, reglamentación y normativa aplicables).
+- Análisis de soluciones – resumen de conclusiones del informe pericial (alternativas estudiadas, qué caminos se han seguido para llegar a ellas, ventajas e inconvenientes de cada una y cuál es la solución finalmente elegida y su justificación).
+- Anexos.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+5. Documenta análisis forenses elaborando informes que incluyan la normativa aplicable.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- a) Se ha definido el objetivo del informe pericial y su justificación.
+- b) Se ha definido el ámbito de aplicación del informe pericial.
+- c) Se han documentado los antecedentes.
+- d) Se han recopilado las normas legales y reglamentos cumplidos en el análisis forense realizado.
+- e) Se han recogido los requisitos establecidos por el cliente.
+- f) Se han incluido las conclusiones y su justificación.
 
 #### Herramientas y recursos para trabajar los conceptos
 

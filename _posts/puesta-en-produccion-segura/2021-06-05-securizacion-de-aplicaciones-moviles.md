@@ -17,6 +17,15 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 4 - Detección de problemas de seguridad en aplicaciones para dispositivos móviles:
+
+- Modelos de permisos en plataformas móviles. Llamadas al sistema protegidas.
+- Firma y verificación de aplicaciones.
+- Almacenamiento seguro de datos.
+- Validación de compras integradas en la aplicación.
+- Fuga de información en los ejecutables.
+- Soluciones CASB.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).

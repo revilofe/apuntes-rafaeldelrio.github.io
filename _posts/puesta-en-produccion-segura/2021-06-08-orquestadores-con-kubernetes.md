@@ -17,13 +17,24 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 5 - Implantación de sistemas seguros de desplegado de software:
+
+- Orquestación de contenedores.
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+5. Implanta sistemas seguros de desplegado de software, utilizando herramientas para la
+   automatización de la construcción de sus elementos.
+
 ##### Criterios de evaluación
 
 En esta sección se relaciona la unidad con los criterios de evaluación concretos, del resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+
+- e) Se ha evaluado la capacidad del sistema desplegado para reaccionar de forma automática a fallos.
+- f) Se han documentado las tareas realizadas y los procedimientos a seguir para la recuperación ante desastres.
+- g) Se han creado bucles de retroalimentación ágiles entre los miembros del equipo.
 
 #### Herramientas y recursos para trabajar los conceptos
 

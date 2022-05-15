@@ -15,7 +15,7 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 #### Contenidos
 
-En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
+Bloque 1 - En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
 Prueba de aplicaciones web y para dispositivos móviles:
 

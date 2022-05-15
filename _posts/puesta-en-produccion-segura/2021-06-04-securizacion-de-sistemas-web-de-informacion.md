@@ -17,6 +17,18 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 3 - Detección y corrección de vulnerabilidades de aplicaciones web:
+
+- Desarrollo seguro de aplicaciones web.
+- Listas públicas de vulnerabilidades de aplicaciones web. OWASP Top Ten.
+- Entrada basada en formularios. Inyección. Validación de la entrada.
+- Estándares de autenticación y autorización.
+- Robo de sesión.
+- Vulnerabilidades web.
+- Almacenamiento seguro de contraseñas.
+- Contramedidas. HSTS, CSP, CAPTCHAs, entre otros.
+- Seguridad de portales y aplicativos web. Soluciones WAF (Web Application Firewall).
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).

@@ -17,6 +17,13 @@ Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desgl
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
+Bloque 2 - Determinación del nivel de seguridad requerido por aplicaciones:
+
+- Fuentes abiertas para el desarrollo seguro.
+- Listas de riesgos de seguridad habituales: OWASP Top Ten (web y móvil).
+- Requisitos de verificación necesarios asociados al nivel de seguridad establecido
+- Comprobaciones de seguridad a nivel de aplicación: ASVS (Application Security Verification Standard).
+
 #### Resultados de aprendizaje a trabajar
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
