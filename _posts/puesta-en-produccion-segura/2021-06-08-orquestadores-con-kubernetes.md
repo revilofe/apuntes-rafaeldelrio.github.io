@@ -25,8 +25,7 @@ Bloque 5 - Implantación de sistemas seguros de desplegado de software:
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-5. Implanta sistemas seguros de desplegado de software, utilizando herramientas para la
-   automatización de la construcción de sus elementos.
+RA 5. Implanta sistemas seguros de desplegado de software, utilizando herramientas para la automatización de la construcción de sus elementos.
 
 ##### Criterios de evaluación
 

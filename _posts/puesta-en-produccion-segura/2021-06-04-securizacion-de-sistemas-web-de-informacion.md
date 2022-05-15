@@ -33,7 +33,7 @@ Bloque 3 - Detección y corrección de vulnerabilidades de aplicaciones web:
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-3. Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web.
+RA 3. Detecta y corrige vulnerabilidades de aplicaciones web analizando su código fuente y configurando servidores web.
 
 ##### Criterios de evaluación
 

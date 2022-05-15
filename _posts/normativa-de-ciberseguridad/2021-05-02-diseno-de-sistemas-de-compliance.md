@@ -28,7 +28,7 @@ Bloque 2 - Diseño de sistemas de cumplimiento normativo:
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-2. Diseña sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación.
+RA 2. Diseña sistemas de cumplimiento normativo seleccionando la legislación y jurisprudencia de aplicación.
 
 ##### Criterios de evaluación
 
