@@ -37,6 +37,20 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 | RA 6   |      |      |      |      |      | X    |      |
 | RA 7   |      |      |      |      |      |      | X    |
 
+##### Relación de unidades y fechas
+
+El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre unidades y semanas es la siguiente:
+
+| Unidad       | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 | UD 7 |
+| ------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Semana 1-3   | X    |      |      |      |      |      |      |
+| Semana 4-6   |      | X    |      |      |      |      |      |
+| Semana 7-9   |      |      | X    |      |      |      |      |
+| Semana 10-12 |      |      |      | X    |      |      |      |
+| Semana 13-15 |      |      |      |      | X    |      |      |
+| Semana 16-20 |      |      |      |      |      | X    |      |
+| Semana 21-24 |      |      |      |      |      |      | X    |
+
 ##### Libros
 
 - [JoyOfCryptography](https://joyofcryptography.com/)

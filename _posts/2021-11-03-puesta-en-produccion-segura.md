@@ -36,6 +36,21 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 | RA 4   |      |      |      |      | X    |      |      |      |
 | RA 5   |      |      |      |      |      | X    | X    | X    |
 
+##### Relación de unidades y fechas
+
+El curso tiene un total de 24 semanas (720 horas). La relación entre unidades y semanas es la siguiente:
+
+| Unidad       | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 | UD 7 | UD 8 |
+| ------------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Semana 1-2   | X    |      |      |      |      |      |      |      |
+| Semana 3-5   |      | X    |      |      |      |      |      |      |
+| Semana 6-9   |      |      | X    |      |      |      |      |      |
+| Semana 10-12 |      |      |      | X    |      |      |      |      |
+| Semana 13-15 |      |      |      |      | X    |      |      |      |
+| Semana 16-19 |      |      |      |      |      | X    |      |      |
+| Semana 20-22 |      |      |      |      |      |      | X    |      |
+| Semana 23-24 |      |      |      |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de puesta en producción segura](https://www.ra-ma.es/libro/puesta-en-produccion-segura_140116/) puede ser un buen punto de partida para organizar la estructura del temario.

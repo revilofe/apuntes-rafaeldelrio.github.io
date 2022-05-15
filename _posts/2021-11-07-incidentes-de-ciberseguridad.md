@@ -34,6 +34,19 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 | RA 4   |      |      |      |      | X    |      |
 | RA 5   |      |      |      |      |      | X    |
 
+##### Relación de unidades y fechas
+
+El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre unidades y semanas es la siguiente:
+
+| Unidad       | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 |
+| ------------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| Semana 1-4   | X    |      |      |      |      |      |
+| Semana 5-7   |      | X    |      |      |      |      |
+| Semana 8-12  |      |      | X    |      |      |      |
+| Semana 13-16 |      |      |      | X    |      |      |
+| Semana 17-20 |      |      |      |      | X    |      |
+| Semana 21-24 |      |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de gestión de incidentes](https://www.ra-ma.es/libro/gestion-de-incidentes-de-ciberseguridad_139033/) puede ser un buen punto de partida para organizar la estructura del temario.

@@ -33,6 +33,18 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 | RA 4   |      |      |      | X    |      |
 | RA 5   |      |      |      |      | X    |
 
+##### Relación de unidades y fechas
+
+El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre unidades y semanas es la siguiente:
+
+| Unidad       | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 |
+| ------------ | ---- | ---- | ---- | ---- | ---- |
+| Semana 1-5   | X    |      |      |      |      |
+| Semana 6-10  |      | X    |      |      |      |
+| Semana 11-15 |      |      | X    |      |      |
+| Semana 16-20 |      |      |      | X    |      |
+| Semana 21-24 |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de análisis forense informático](https://www.ra-ma.es/libro/analisis-forense-informatico_132720/) puede ser un buen punto de partida para organizar la estructura del temario.
