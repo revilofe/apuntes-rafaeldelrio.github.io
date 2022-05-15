@@ -13,7 +13,9 @@ toc_icon: "file-code"
 
 Información sobre el módulo profesional de hacking ético. Esta información se divide en libros recomendados, recursos, herramientas para aplicar conceptos, así como una propuesta de temario. Todo el contenido está supeditado a mejora, pues es solo una propuesta, y se espera que mejore con el tiempo con contribuciones de personas como tú. Si tienes algo interesante que puede mejorar, accede al github del proyecto y crea un pull request con la información. Gracias.
 
-##### Propuesta de temario
+## Información
+
+### Propuesta de temario
 
 En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaje, criterios de evaluación y herramientas para trabajarlos y poder evaluarlos. Es solo una propuesta, pero puede servir de punto de partida inicial.
 
@@ -25,7 +27,7 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 6. [Pentesting de aplicaciones web](/ceti/hacking-etico/pentesting-aplicaciones-web)
 7. [Pentesting de redes wifi](/ceti/hacking-etico/pentesting-aplicaciones-web)
 
-##### Relación de unidades y resultados de aprendizaje
+### Relación de unidades y resultados de aprendizaje
 
 | Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 | UD 7 |
 | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
@@ -35,7 +37,7 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 | RA 4   |      |      |      |      |      | X    |      |
 | RA 5   |      |      |      |      |      |      | X    |
 
-##### Relación de unidades y fechas
+### Relación de unidades y fechas
 
 El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre unidades y semanas es la siguiente:
 
@@ -49,18 +51,20 @@ El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre 
 | 6      | Semana 16 - 20 |
 | 7      | Semana 21 - 24 |
 
-##### Libros
+## Materiales
+
+### Libros
 
 - [El libro de Ra-Ma de hacking ético](https://www.ra-ma.es/libro/hacking-etico_139070/) puede ser un buen punto de partida para organizar la estructura del temario.
 
-##### Plataformas de entrenamiento
+### Plataformas de entrenamiento
 
 - [TryHackMe](https://tryhackme.com/)
 - [VulnHub](https://www.vulnhub.com/)
 - [HackTheBox](https://www.hackthebox.com/)
 - [RootMe](https://www.root-me.org/?lang=es)
 
-##### Contribuir
+### Contribuir
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
