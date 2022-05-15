@@ -64,7 +64,7 @@ El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre 
 - [HackTheBox](https://www.hackthebox.com/)
 - [RootMe](https://www.root-me.org/?lang=es)
 
-### Contribuir
+## Contribuir
 
 Se solicitan contribuciones. Típicamente se intenta tener los siguientes apartados en cada uno de los módulos profesionales:
 
