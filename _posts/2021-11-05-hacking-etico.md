@@ -25,6 +25,16 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 6. [Pentesting de aplicaciones web](/ceti/hacking-etico/pentesting-aplicaciones-web)
 7. [Pentesting de redes wifi](/ceti/hacking-etico/pentesting-aplicaciones-web)
 
+##### Relación de unidades y resultados de aprendizaje
+
+| Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 | UD 7 |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 1   | X    |      |      |      |      |      |      |
+| RA 2   |      | X    | X    | X    |      |      |      |
+| RA 3   |      |      |      |      | X    |      |      |
+| RA 4   |      |      |      |      |      | X    |      |
+| RA 5   |      |      |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de hacking ético](https://www.ra-ma.es/libro/hacking-etico_139070/) puede ser un buen punto de partida para organizar la estructura del temario.

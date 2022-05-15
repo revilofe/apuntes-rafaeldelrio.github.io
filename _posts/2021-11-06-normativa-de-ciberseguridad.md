@@ -23,6 +23,16 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 4. [Legislación para la protección de datos](/ceti/normativa-de-ciberseguridad/legislacion-para-la-proteccion-de-datos)
 5. [Normativa de ciberseguridad y jurisprudencia](/ceti/normativa-de-ciberseguridad/normativa-de-ciberseguridad-y-jurisprudencia)
 
+##### Relación de unidades y resultados de aprendizaje
+
+| Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 |
+| ------ | ---- | ---- | ---- | ---- | ---- |
+| RA 1   | X    |      |      |      |      |
+| RA 2   |      | X    |      |      |      |
+| RA 3   |      |      | X    |      |      |
+| RA 4   |      |      |      | X    |      |
+| RA 5   |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de normativa de ciberseguridad](https://www.ra-ma.es/libro/normativa-de-ciberseguridad_132894/) puede ser un buen punto de partida para organizar la estructura del temario.

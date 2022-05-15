@@ -95,7 +95,7 @@ defaults:
       type: posts
     values:
       layout: single
-      read_time: true
+      read_time: false
       comments: false # Quitamos los comentarios por ahora
       share: false # Quitamos los enlaces a las redes sociales
       related: false # Quitamos los relacionados

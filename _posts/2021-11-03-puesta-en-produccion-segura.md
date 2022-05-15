@@ -26,6 +26,16 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 7. [Integración continua/despliegue continuo (CI/CD)](/ceti/puesta-en-produccion-segura/ci-cd)
 8. [Orquestadores con kubernetes](/ceti/puesta-en-produccion-segura/orquestadores-con-kubernetes)
 
+##### Relación de unidades y resultados de aprendizaje
+
+| Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 | UD 7 | UD 8 |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 1   | X    | X    |      |      |      |      |      |      |
+| RA 2   |      |      | X    |      |      |      |      |      |
+| RA 3   |      |      |      | X    |      |      |      |      |
+| RA 4   |      |      |      |      | X    |      |      |      |
+| RA 5   |      |      |      |      |      | X    | X    | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de puesta en producción segura](https://www.ra-ma.es/libro/puesta-en-produccion-segura_140116/) puede ser un buen punto de partida para organizar la estructura del temario.

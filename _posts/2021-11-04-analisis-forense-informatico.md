@@ -23,6 +23,16 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 4. [Análisis forense en dispositivos IOT](/ceti/analisis-forense-informatico/analisis-forense-en-dispositivos-iot)
 5. [Generación de informes forenses](/ceti/analisis-forense-informatico/generacion-de-informes-forenses)
 
+##### Relación de unidades y resultados de aprendizaje
+
+| Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 |
+| ------ | ---- | ---- | ---- | ---- | ---- |
+| RA 1   | X    |      |      |      |      |
+| RA 2   |      | X    |      |      |      |
+| RA 3   |      |      | X    |      |      |
+| RA 4   |      |      |      | X    |      |
+| RA 5   |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de análisis forense informático](https://www.ra-ma.es/libro/analisis-forense-informatico_132720/) puede ser un buen punto de partida para organizar la estructura del temario.

@@ -24,6 +24,16 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 5. [Implementación de medidas](/ceti/incidentes-de-ciberseguridad/implementacion-de-medidas)
 6. [Documentación y notificación de incidentes](/ceti/incidentes-de-ciberseguridad/documentacion-y-notificacion-de-incidentes)
 
+##### Relación de unidades y resultados de aprendizaje
+
+| Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 1   | X    |      |      |      |      |      |
+| RA 2   |      | X    | X    |      |      |      |
+| RA 3   |      |      |      | X    |      |      |
+| RA 4   |      |      |      |      | X    |      |
+| RA 5   |      |      |      |      |      | X    |
+
 ##### Libros
 
 - [El libro de Ra-Ma de gestión de incidentes](https://www.ra-ma.es/libro/gestion-de-incidentes-de-ciberseguridad_139033/) puede ser un buen punto de partida para organizar la estructura del temario.
