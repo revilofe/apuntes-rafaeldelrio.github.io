@@ -25,6 +25,17 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 6. [Securización de sistemas informáticos](/ceti/bastionado-de-redes-y-sistemas/securizacion-de-sistemas-informaticos)
 7. [IDS/IPS](/ceti/bastionado-de-redes-y-sistemas/ids-ips)
 
+##### Relación de unidades y resultados de aprendizaje
+
+| Unidad | UD 1 | UD 2 | UD 3 | UD 4 | UD 5 | UD 6 |
+| ------ | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 1   | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 2   | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 3   | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 4   | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 5   | ---- | ---- | ---- | ---- | ---- | ---- |
+| RA 6   | ---- | ---- | ---- | ---- | ---- | ---- |
+
 ##### Libros
 
 - [JoyOfCryptography](https://joyofcryptography.com/)

@@ -30,7 +30,7 @@ Bloque 4 - Diseño de redes de computadores seguras:
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-4. Diseña redes de computadores contemplando los requisitos de seguridad.
+RA 4. Diseña redes de computadores contemplando los requisitos de seguridad.
 
 ##### Criterios de evaluación
 

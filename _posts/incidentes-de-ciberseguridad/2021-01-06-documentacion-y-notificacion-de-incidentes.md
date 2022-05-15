@@ -27,8 +27,8 @@ Bloque 5 - Detección y documentación de incidentes de ciberseguridad:
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-5. Detecta y documenta incidentes de ciberseguridad siguiendo procedimientos de
-   actuación establecidos.
+RA 5. Detecta y documenta incidentes de ciberseguridad siguiendo procedimientos de
+actuación establecidos.
 
 ##### Criterios de evaluación
 

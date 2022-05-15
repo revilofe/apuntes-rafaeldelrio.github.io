@@ -26,7 +26,7 @@ Bloque 2 - Configuración de sistemas de control de acceso y autenticación de p
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-2. Configura sistemas de control de acceso y autenticación de personas preservando la confidencialidad y privacidad de los datos.
+RA 2. Configura sistemas de control de acceso y autenticación de personas preservando la confidencialidad y privacidad de los datos.
 
 ##### Criterios de evaluación
 

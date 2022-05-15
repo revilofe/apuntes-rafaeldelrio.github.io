@@ -32,7 +32,7 @@ Bloque 1 - Diseño de planes de securización:
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-1. Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes.
+RA 1. Diseña planes de securización incorporando buenas prácticas para el bastionado de sistemas y redes.
 
 ##### Criterios de evaluación
 

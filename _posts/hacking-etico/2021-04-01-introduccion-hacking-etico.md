@@ -32,7 +32,7 @@ Bloque 1 - Determinación de las herramientas de monitorización para detectar v
 
 En esta sección se relaciona la unidad con el resultado de aprendizaje a trabajar en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
 
-1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.
+RA 1. Determina herramientas de monitorización para detectar vulnerabilidades aplicando técnicas de hacking ético.
 
 ##### Criterios de evaluación
 
