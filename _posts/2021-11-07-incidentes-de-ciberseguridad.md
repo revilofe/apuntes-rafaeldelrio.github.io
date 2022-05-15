@@ -38,14 +38,14 @@ En los siguientes enlaces se encuentran los contenidos, resultados de aprendizaj
 
 El curso tiene un total de 24 semanas (720 horas). La relación propuesta entre unidades y semanas es la siguiente:
 
-| Semanas        | Unidades |
-| -------------- | -------- |
-| Semana 1 - 4   | 1        |
-| Semana 5 - 7   | 2        |
-| Semana 8 - 12  | 3        |
-| Semana 13 - 16 | 4        |
-| Semana 17 - 20 | 5        |
-| Semana 21 - 24 | 6        |
+| Unidad | Semanas        |
+| ------ | -------------- |
+| 1      | Semana 1 - 4   |
+| 2      | Semana 5 - 7   |
+| 3      | Semana 8 - 12  |
+| 4      | Semana 13 - 16 |
+| 5      | Semana 17 - 20 |
+| 6      | Semana 21 - 24 |
 
 ##### Libros
 
