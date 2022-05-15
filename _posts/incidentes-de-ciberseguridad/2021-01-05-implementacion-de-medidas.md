@@ -13,6 +13,8 @@ toc_icon: "file-code"
 
 Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desglosados en criterios de evaluación), una práctica o prácticas para evaluar la adquisición de dichos criterios de evaluación y una prueba teórica para evaluar la asimilación de contenido.
 
+### Normativa que respalda la unidad
+
 #### Contenidos
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
@@ -43,12 +45,22 @@ En esta sección se relaciona la unidad con los criterios de evaluación concret
 - e) Se han documentado las acciones realizadas y las conclusiones que permitan mantener un registro de “lecciones aprendidas”.
 - f) Se ha realizado un seguimiento adecuado del incidente para evitar que una situación similar se vuelva a repetir.
 
-#### Herramientas y recursos para trabajar los conceptos
+### Cómo impartir la unidad
 
 Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
 
 - **Criterio de evaluación a**: se pueden desarrollar procedimientos de actuación basándonos en los que nos ofrece [Incibe en los siguientes casos](https://www.incibe.es/protege-tu-empresa/juego-rol-pyme-seguridad). Con este juego el alumnado puede trabajar posibles incidentes y desarrollar a partir de ellos sus soluciones.
 - **Criterio de evaluación e**: se puede montar [una herramienta de ticketing, como FIR,](https://github.com/certsocietegenerale/FIR/) para llevar el control de los incidentes, desde su origen hasta su resolución. Se puede usar [una herramienta como DFIRTrack](https://github.com/dfirtrack/dfirtrack) para llevar las evidencias y artefactos de los incidentes de ciberseguridad.
+
+#### Teoría
+
+Por hacer.
+
+#### Ejercicios
+
+Por hacer.
+
+### Cómo evaluar la unidad
 
 #### Práctica de la unidad
 

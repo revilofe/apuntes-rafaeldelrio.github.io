@@ -13,6 +13,8 @@ toc_icon: "file-code"
 
 Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desglosados en criterios de evaluación), una práctica o prácticas para evaluar la adquisición de dichos criterios de evaluación y una prueba teórica para evaluar la asimilación de contenido.
 
+### Normativa que respalda la unidad
+
 #### Contenidos
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
@@ -48,9 +50,19 @@ En esta sección se relaciona la unidad con los criterios de evaluación concret
 - e) Se han recogido los requisitos establecidos por el cliente.
 - f) Se han incluido las conclusiones y su justificación.
 
-#### Herramientas y recursos para trabajar los conceptos
+### Cómo impartir la unidad
 
 Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
+
+#### Teoría
+
+Por hacer.
+
+#### Ejercicios
+
+Por hacer.
+
+### Cómo evaluar la unidad
 
 #### Práctica de la unidad
 

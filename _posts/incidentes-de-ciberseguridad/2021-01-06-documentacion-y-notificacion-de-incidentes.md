@@ -13,6 +13,8 @@ toc_icon: "file-code"
 
 Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desglosados en criterios de evaluación), una práctica o prácticas para evaluar la adquisición de dichos criterios de evaluación y una prueba teórica para evaluar la asimilación de contenido.
 
+### Normativa que respalda la unidad
+
 #### Contenidos
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
@@ -40,12 +42,22 @@ En esta sección se relaciona la unidad con los criterios de evaluación concret
 - d) Se ha notificado formalmente el incidente a los afectados, personal interno, clientes, proveedores, etc., en caso de ser necesario.
 - e) Se ha notificado el incidente a los medios de comunicación en caso de ser necesario.
 
-#### Herramientas y recursos para trabajar los conceptos
+### Cómo impartir la unidad
 
 Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
 
 - **Criterio de evaluación a**: para comprender el procedimiento de notificación de incidentes, Incibe pone a nuestra disposición la [guía nacional de notificación y gestión de ciberincidentes](https://www.incibe-cert.es/sites/default/files/contenidos/guias/doc/guia_nacional_notificacion_gestion_ciberincidentes.pdf).
 - **Criterio de evaluación c**: uno de los organismos a los que hay que notificar es [incibe, y en la web indica cómo](https://www.incibe.es/protege-tu-empresa/reporta-tu-incidente).
+
+#### Teoría
+
+Por hacer.
+
+#### Ejercicios
+
+Por hacer.
+
+### Cómo evaluar la unidad
 
 #### Práctica de la unidad
 

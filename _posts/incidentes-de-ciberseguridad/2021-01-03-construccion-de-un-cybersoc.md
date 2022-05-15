@@ -13,6 +13,8 @@ toc_icon: "file-code"
 
 Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desglosados en criterios de evaluación), una práctica o prácticas para evaluar la adquisición de dichos criterios de evaluación y una prueba teórica para evaluar la asimilación de contenido.
 
+### Normativa que respalda la unidad
+
 #### Contenidos
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
@@ -35,12 +37,22 @@ En esta sección se relaciona la unidad con los criterios de evaluación concret
 - b) Se han establecido controles, herramientas y mecanismos de monitorización, identificación, detección y alerta de incidentes
 - e) Se ha realizado una clasificación, valoración, documentación y seguimiento de los incidentes detectados dentro de la organización.
 
-#### Herramientas y recursos para trabajar los conceptos
+### Cómo impartir la unidad
 
 Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
 
 - **Criterio de evaluación b**: se puede montar un SIEM, con el stack de Elastic (ElasticSearch, Logstash y Kibana) para la monitorización de incidentes. Dado que el montaje del sistema es complejo, se recomienda emplear [la siguiente imagen de docker para ello](https://elk-docker.readthedocs.io/).
 - **Criterio de evaluación e**: se puede montar [una herramienta de ticketing, como FIR,](https://github.com/certsocietegenerale/FIR/) para llevar el control de los incidentes, desde su origen hasta su resolución. Recomiendo que se despliegue con Docker, por lo que los alumnos deben haber visto Docker en este momento (aunque sea a nivel básico).
+
+#### Teoría
+
+Por hacer.
+
+#### Ejercicios
+
+Por hacer.
+
+### Cómo evaluar la unidad
 
 #### Práctica de la unidad
 

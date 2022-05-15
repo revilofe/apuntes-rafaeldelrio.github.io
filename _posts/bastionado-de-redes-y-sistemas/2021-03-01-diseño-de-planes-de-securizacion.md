@@ -13,6 +13,8 @@ toc_icon: "file-code"
 
 Cada unidad contendrá una serie de contenidos, resultados de aprendizaje (desglosados en criterios de evaluación), una práctica o prácticas para evaluar la adquisición de dichos criterios de evaluación y una prueba teórica para evaluar la asimilación de contenido.
 
+### Normativa que respalda la unidad
+
 #### Contenidos
 
 En esta sección se incluyen los contenidos mínimos a impartir en esta unidad, teniendo en cuenta [la normativa del curso](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2020-4963).
@@ -45,9 +47,19 @@ En esta sección se relaciona la unidad con los criterios de evaluación concret
 - e) Se ha diseñado y elaborado un plan de medidas técnicas de seguridad a implantar en la organización, apropiadas para garantizar un nivel de seguridad adecuado en función de los riesgos de la organización.
 - f) Se han identificado las mejores prácticas en base a estándares, guías y políticas de securización adecuadas para el bastionado de los sistemas y redes de la organización.
 
-#### Herramientas y recursos para trabajar los conceptos
+### Cómo impartir la unidad
 
 Esta es la sección más interesante, y se incluye cómo trabajar la unidad, haciendo referencia a herramientas, guías, materiales y recursos, de manera individual para cada criterio.
+
+#### Teoría
+
+Por hacer.
+
+#### Ejercicios
+
+Por hacer.
+
+### Cómo evaluar la unidad
 
 #### Práctica de la unidad
 
