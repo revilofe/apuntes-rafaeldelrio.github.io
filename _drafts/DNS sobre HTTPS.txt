@@ -1,0 +1,1 @@
+La función de DNS sobre HTTPS de Firefox es esencial. Sin ella, alguien que se encuentre en la misma red podría ver fácilmente las consultas DNS que está realizando un usuario desde su navegador. Una vez activada, dejará de poder ver dichas consultas.

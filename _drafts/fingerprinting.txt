@@ -1,0 +1,18 @@
+Aspectos relacionados con el fingerprinting:
+	- https://www.deviceinfo.me/
+	- https://browserleaks.com/canvas
+	- DescentralEyes
+	- PrivacyBadger
+	- https://coveryourtracks.eff.org/
+	
+Parece que firefox sí desvela ciertos detalles de mi equipo que brave no desvela. En el aspecto de fingerprint parece que firefox da una huella única entre todas, y brave una aleatoria. Hasta donde llega mi conocimiento, parece que brave lo hace mejor.
+Parece que si nos metemos en
+	about:config
+	resistFingerprinting = true
+	Se evita mejor la huella
+
+Con esta página se puede probar el fingerprinting del navegador
+	https://fingerprintjs.com/demo/
+Si te sale una distinta cada vez, es que se está haciendo bien
+
+Al parecer en Brave sí te puede trackear, por lo que hace peor. Firefox genera una nueva huella en cada visita.
